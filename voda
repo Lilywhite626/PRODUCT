@@ -1,0 +1,192 @@
+{
+  "name": "rozvoz vody",
+  "type": 1,
+  "points": [
+    {
+      "x": 2147.244140625,
+      "y": -1615.064453125,
+      "z": 389.73281860352,
+      "int": 56,
+      "dim": 152,
+      "minigame": {
+        "game": "keys",
+        "steps": 10,
+        "speed": 900,
+        "fail": "dokument ti spadl, zvedni ho!",
+        "done": "úspěšně si přebřal od natálie dokument s popisem práce."
+      },
+      "me": "přebral od Natálie dokument s popisem práce.",
+      "help": "teď jeď pro vodu do vodárny v LS"
+    },
+    {
+      "x": 2744.515625,
+      "y": -2066.6474609375,
+      "z": 12.899557113647,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "keys",
+        "steps": 3,
+        "speed": 800,
+        "fail": "balík s vodou ti spadl na zem, si celý od vody.",
+        "done": "úspěšně si naložil do vozidla balíky s vodou."
+      },
+      "me": "přebral balíky s vodou a následně je naložil do vozidla.",
+      "help": "teď jeď do klubu Seven Roses v LS."
+    },
+    {
+      "x": 2751.1025390625,
+      "y": -1471.166015625,
+      "z": 30.453125,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "keys",
+        "steps": 3,
+        "speed": 800,
+        "fail": "balík s vodou ti spadl, ty a personál Seven Roses jste od vody.",
+        "done": "úspěšně si personálu předal balík s vodou."
+      },
+      "me": "předal personálu balík s vodou.",
+      "help": "teď jeď do baru Severka v Palominu."
+    },
+    {
+      "x": 2333.6044921875,
+      "y": -17.8125,
+      "z": 26.484375,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "keys",
+        "steps": 3,
+        "speed": 800,
+        "fail": "balík s vodou ti spadl, ty a personál baru Severka jste od vody.",
+        "done": "úspěšně si personálu předal balík s vodou."
+      },
+      "me": "předal personálu balík s vodou.",
+      "help": "teď jeď do klubu Belleville v MG."
+    },
+    {
+      "x": 1238.0205078125,
+      "y": 235.2119140625,
+      "z": 19.5546875,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "keys",
+        "steps": 3,
+        "speed": 800,
+        "fail": "balík s vodou ti spadl, ty a personál klubu Bellivelle jste od vody.",
+        "done": "úspěšně si personálu předal balík s vodou."
+      },
+      "me": "předal personálu balík s vodou.",
+      "help": "teď jeď do kasína Four Dragons v LV."
+    },
+    {
+      "x": 2021.9443359375,
+      "y": 1007.45703125,
+      "z": 10.8203125,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "keys",
+        "steps": 3,
+        "speed": 800,
+        "fail": "balík s vodou ti spadl, ty a personál kasína Four Dragons jste od vody.",
+        "done": "úspěšně si personálu předal balík s vodou."
+      },
+      "me": "předal personálu balík s vodou.",
+      "help": "teď jeď do baru Outlaw's cellar v Las Payadas"
+    },
+    {
+      "x": -227.3603515625,
+      "y": 2709.2255859375,
+      "z": 62.9765625,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "keys",
+        "steps": 3,
+        "speed": 800,
+        "fail": "balík s vodou ti spadl, ty a personál baru Outlaw's cellar jste od vody.",
+        "done": "úspěšně si personálu předal balík s vodou."
+      },
+      "me": "předal personálu balík s vodou.",
+      "help": "teď jeď bau Laguna v El Quebrados."
+    },
+    {
+      "x": -1448.0615234375,
+      "y": 2608.974609375,
+      "z": 55.8359375,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "keys",
+        "steps": 3,
+        "speed": 800,
+        "fail": "balík s vodou ti spadl, ty a personál baru Laguna jste od vody.",
+        "done": "úspěšně si personálu předal balík s vodou."
+      },
+      "me": "předal personálu balík s vodou.",
+      "help": "teď jeď na benzínku Juniper Hollow v SF"
+    },
+    {
+      "x": -2419.0498046875,
+      "y": 969.6376953125,
+      "z": 45.296875,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "keys",
+        "steps": 3,
+        "speed": 800,
+        "fail": "balík s vodou ti spadl, ty a personál benzínky jste od vody.",
+        "done": "úspěšně si personálu předal balík s vodou."
+      },
+      "me": "předal personálu balík s vodou.",
+      "help": "teď jeď na benzínku v AP"
+    },
+    {
+      "x": -2232.7734375,
+      "y": -2557.345703125,
+      "z": 31.921875,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "keys",
+        "steps": 3,
+        "speed": 800,
+        "fail": "balík s vodou ti spadl, ty a personál benzínky jste od vody.",
+        "done": "úspěšně si personálu předal balík s vodou."
+      },
+      "me": "předal personálu balík s vodou.",
+      "help": "teď jeď do baru Westroad, je to cestou do LS"
+    },
+    {
+      "x": 22.7919921875,
+      "y": -2646.755859375,
+      "z": 40.464839935303,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "keys",
+        "steps": 3,
+        "speed": 800,
+        "fail": "balík s vodou ti spadl, ty a personál baru Westroad jste od vody.",
+        "done": "úspěšně si personálu předal balík s vodou."
+      },
+      "me": "předal personálu balík s vodou.",
+      "help": "teď jeď zpět na firmu pro svojí odměnu."
+    },
+    {
+      "x": 1283.59765625,
+      "y": -1582.5986328125,
+      "z": 13.546875,
+      "int": 0,
+      "dim": 0,
+      "me": "od personálu White Company si obdržel peněžní odměnu.",
+      "help": "Získáváš [REWARD] od Lily White za tvůj rozvoz vody po San Andreas."
+    }
+  ],
+  "reward": 0
+}
