@@ -10,7 +10,7 @@
       "dim": 152,
       "minigame": {
         "game": "keys",
-        "steps": 10,
+        "steps": 5,
         "speed": 900,
         "fail": "dokument ti spadl, zvedni ho!",
         "done": "úspěšně si přebřal od natálie dokument s popisem práce."
